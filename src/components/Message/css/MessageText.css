@@ -1,0 +1,11 @@
+.form-group {
+    background-color: #373d41;
+    font-size: 15px;
+    width: 1200px;
+    height: 800px;
+    margin: 100px auto;
+}
+.wen-an {
+    float: left;
+    margin-left: 100px;
+}
